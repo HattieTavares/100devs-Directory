@@ -46,4 +46,35 @@ Remember this branch name, you will need it later!
 
 3. Edit your html file with whatever information you want included. If you do not have a twitch for example, just delete that on your file.
 
-4. When you are done editing add your name to the appropriate letter and country files. Mine has again been done for you as an example.
+4. When you are done editing add your name link to the appropriate letter and country files. Mine has again been done for you as an example. All files are already set up you may just need to comment the file back in to the html if you are the first to be added to a letter or continent.
+
+**Now you will push your code and submit a pull request to the main repository**
+
+1. In your terminal navigate to the repository folder.
+
+2. Check the status of your files
+```
+git status
+``` 
+should show the files you changed
+
+3. Add files
+```
+git add .
+```
+
+4. Commit with a message
+```
+git commit -m "add yourFirstName yourLastName to directory"
+``` 
+add your commit message here, it does not have to be this exactly but please include your name
+
+5. Push your files!
+```
+git push origin <your branch name here>
+``` 
+that branch name you created earlier goes here, minus the brackets
+
+6. Go to your github repository for the directory. You should see a *Compare and Pull Request* Button. Click it.
+
+7. Please add your 100devs discord username here for verification! As well as the City/State/Country you would like to be added to the map for your location. I will add these all as I accept pull requests.
