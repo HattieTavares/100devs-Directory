@@ -47,3 +47,9 @@ Remember this branch name, you will need it later!
 3. Edit your html file with whatever information you want included. If you do not have a twitch for example, just delete that on your file.
 
 4. When you are done editing add your name to the appropriate letter and country files. Mine has again been done for you as an example.
+
+**4. Add, commit, and push your branch to your github.**
+In your terminal, run the following commands to push all of your updates to your github repository.
+```
+git add .
+ 
