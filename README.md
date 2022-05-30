@@ -46,6 +46,49 @@ Remember this branch name, you will need it later!
 
 3. Edit your html file with whatever information you want included. If you do not have a twitch for example, just delete that on your file.
 
+
+4. When you are done editing add your name to the appropriate letter and country files. Mine has again been done for you as an example.
+
+**4. Add, commit, and push your branch to your github.**
+
+In your terminal, run the following commands to push all of your updates to your github repository:
+
+1. Add all files to staging area:
+```
+git add .
+```
+
+2. Commit files
+```
+git commit -m 'adding <your-name-here-without-brackets> to member directory'
+```
+
+For example:
+```
+git commit -m 'adding Katie Brown to member directory'
+```
+
+3. Push files to github along with your new branch:
+```
+git push --set-upstream origin <name-of-your-branch-without-brackets>
+```
+
+For example:
+```
+git push --set-upstream origin add-Katie-Brown
+```
+
+**5. Compare & Pull Request**
+Once you've pushed your changes to your repository, you need to add them to the main directory. 
+
+1. On your repository page, click 'Compare & pull request' at the top of your repo page.
+
+2. Your pull request will automatically fill with your commit text. You can update this text or leave it as is.
+
+3. In the 'leave a comment' section, add your discord name so Hattie can verify your involvement with 100Devs.
+
+4. Click 'create pull request' to submit your branch to merged with Main.
+=======
 4. When you are done editing add your name link to the appropriate letter and country files. Mine has again been done for you as an example. All files are already set up you may just need to comment the file back in to the html if you are the first to be added to a letter or continent.
 
 **Now you will push your code and submit a pull request to the main repository**
@@ -78,3 +121,4 @@ that branch name you created earlier goes here, minus the brackets
 6. Go to your github repository for the directory. You should see a *Compare and Pull Request* Button. Click it.
 
 7. Please add your 100devs discord username here for verification! As well as the City/State/Country you would like to be added to the map for your location. I will add these all as I accept pull requests.
+
