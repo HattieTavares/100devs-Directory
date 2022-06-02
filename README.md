@@ -41,13 +41,20 @@ Remember this branch name, you will need it later!
 
 **4. Now you will be adding yourself to the directory.** 
 
-1. In the ```members``` folder there is a file called profileTemplate.html. Please do not edit the original! Make a copy in the same folder and edit the file name to be yourFirstNameYourLastName.html. I have added myself already so you can see it as an example.
+1. In the ```members``` folder there is a file called profileTemplate.html. Please do not edit the original! 
+    * Right click on the profileTemplate.html select ```copy```. 
+    * Hover over the members file, right click, and click ```paste```. This will put a profileTemplate copy into the members file. 
+    * Then right click on the copy and select ```rename``` to edit the file name to be yourFirstNameYourLastName.html. 
+I have added myself already so you can see it as an example.
 
 2. There is a folder called profilePics, if you would like a profile picture, please add it there. You can also use a logo if you prefer, or leave the default if you don't want to add your picture.
 
-3. Edit your html file with whatever information you want included. If you do not have a twitch for example, just delete that on your file.
+3. Edit your html file with whatever information you want included. If you do not have a twitch for example, just delete that on your file. Please remember to edit the following:
+    * change document title to your name
+    * profile picture link if you added a picture
+    * any social links you want included
 
-4. When you are done editing add your name to the appropriate letter and country files. Mine has again been done for you as an example.
+4. When you are done editing add your link to the appropriate letter and country files. For alphabetical, choose the letter file that corresponds to your last name. My last name is Tavares, so under the *letterT.html* file I added a link to my profile page in the members folder. Do the same for your country, I am in North America, so I added my link there as well.
 
 **5. Add, commit, and push your branch to your github.**
 
