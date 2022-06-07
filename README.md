@@ -3,6 +3,8 @@ A worldwide directory for 100devs members
 
 I created this directory so members can voluntarily add themselves through github. I thought it would be fun to see how widespread we are so I also created a map to mark each member's location. The map can only be edited by me, so I will be adding members as I accept pull requests and updating it!
 
+To see the site live: https://hattietavares.github.io/100devs-Directory/
+
 **Note: When creating your pull request, please include your 100devs discord name so I can verify you are a member.
 
 To add yourself to the directory:
