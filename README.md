@@ -42,6 +42,7 @@ git checkout -b add-yourFirstName-YourLastName
 Remember this branch name, you will need it later!
 
 **4. Now you will be adding yourself to the directory.** 
+This next part will be done in your preferred code editor, such as VSCode, Atom, etc. Open up the 100devs-directory folder and do the following:
 
 1. In the ```members``` folder there is a file called profileTemplate.html. Please do not edit the original! 
     * Right click on the profileTemplate.html select ```copy```. 
